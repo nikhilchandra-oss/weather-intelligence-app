@@ -1,0 +1,6 @@
+{
+  "name": "Aether Weather Intelligence",
+  "description": "Next-generation meteorological intelligence and travel advisory platform powered by Open-Meteo, with 7-day forecasts, precision atmospheric charts, and weather-driven travel recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
